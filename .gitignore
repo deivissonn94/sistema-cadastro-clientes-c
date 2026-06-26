@@ -1,0 +1,12 @@
+# Executáveis
+*.exe
+
+# Arquivos de dados
+*.dat
+
+# Objetos gerados na compilação
+*.o
+*.obj
+
+# Arquivos temporários
+*.out
